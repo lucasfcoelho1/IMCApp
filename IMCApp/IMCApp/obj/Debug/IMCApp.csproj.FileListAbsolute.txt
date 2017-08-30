@@ -1,0 +1,15 @@
+C:\VisualStudioProjects\IMCApp\IMCApp\IMCApp\bin\Debug\IMCApp.dll
+C:\VisualStudioProjects\IMCApp\IMCApp\IMCApp\bin\Debug\IMCApp.pdb
+C:\VisualStudioProjects\IMCApp\IMCApp\IMCApp\bin\Debug\Xamarin.Forms.Core.dll
+C:\VisualStudioProjects\IMCApp\IMCApp\IMCApp\bin\Debug\Xamarin.Forms.Platform.dll
+C:\VisualStudioProjects\IMCApp\IMCApp\IMCApp\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\VisualStudioProjects\IMCApp\IMCApp\IMCApp\bin\Debug\Xamarin.Forms.Core.pdb
+C:\VisualStudioProjects\IMCApp\IMCApp\IMCApp\bin\Debug\Xamarin.Forms.Core.xml
+C:\VisualStudioProjects\IMCApp\IMCApp\IMCApp\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\VisualStudioProjects\IMCApp\IMCApp\IMCApp\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\VisualStudioProjects\IMCApp\IMCApp\IMCApp\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\VisualStudioProjects\IMCApp\IMCApp\IMCApp\obj\Debug\IMCApp.csprojResolveAssemblyReference.cache
+C:\VisualStudioProjects\IMCApp\IMCApp\IMCApp\obj\Debug\IMCApp.MainPage.xaml.g.cs
+C:\VisualStudioProjects\IMCApp\IMCApp\IMCApp\obj\Debug\IMCApp.App.xaml.g.cs
+C:\VisualStudioProjects\IMCApp\IMCApp\IMCApp\obj\Debug\IMCApp.dll
+C:\VisualStudioProjects\IMCApp\IMCApp\IMCApp\obj\Debug\IMCApp.pdb
